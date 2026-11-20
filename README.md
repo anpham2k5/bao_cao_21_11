@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/382c1468-ad4d-4696-b5ce-e971696dceca
-
 # Báo cáo tiến độ nghiên cứu ngày 21/11/2026
 ## A. Công việc đã làm
 - Gắn cảm biến vào tay gắp
@@ -23,9 +19,4 @@ https://github.com/user-attachments/assets/382c1468-ad4d-4696-b5ce-e971696dceca
 - Giá trị trung bình 4 chân cảm biến 3 để đạt khoảng 6N là khoảng 9.5
 
 #### Video quay gắp vật
-
-<p align="center">
-  <video src="image/video.mp4" controls width="80%">
-    Trình duyệt không hỗ trợ thẻ video.
-  </video>
-</p>
+https://github.com/user-attachments/assets/3e029116-5c6c-4882-bd0b-8f2d8a6dc300
