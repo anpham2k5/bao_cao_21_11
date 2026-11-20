@@ -4,9 +4,7 @@
 - Tiến hành gắp thử vật
 ## B. Khó Khăn
 ## C. Báo cáo chi tiết 
-### 1. Code chi tiết
-
-### 2. Gắn cảm biến vào tay gắp
+### 1. Gắn cảm biến vào tay gắp
 <p align="center">
   <img src="image/hinh1.jpg" width="45%" />
   <img src="image/hinh3.jpg" width="45%" />
@@ -15,12 +13,12 @@
   <img src="image/hinh4.jpg" width="45%" />
 </p>
 
-### 3. Tiến hành đo gắp vật
+### 2. Tiến hành đo gắp vật
 - Đo để gắp quả trứng ta cho lực khoảng 6N
 - Giá trị trung bình 4 chân cảm biến 2 để đạt khoảng 6N là khoảng 7
 - Giá trị trung bình 4 chân cảm biến 3 để đạt khoảng 6N là khoảng 9.5
 
-#### 4. Video quay gắp vật
+#### Video quay gắp vật
 
 <p align="center">
   <video src="image/video.mp4" controls width="80%">
