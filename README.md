@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/382c1468-ad4d-4696-b5ce-e971696dceca
+
 # Báo cáo tiến độ nghiên cứu ngày 21/11/2026
 ## A. Công việc đã làm
 - Gắn cảm biến vào tay gắp
